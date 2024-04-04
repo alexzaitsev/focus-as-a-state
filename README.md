@@ -4,3 +4,4 @@ Focus is the main thing that differs TV from mobile as we don't have touch suppo
 
 **The article link is [here](https://open.substack.com/pub/alexzaitsev/p/focus-as-a-state-new-effective-tv?r=28nq7d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).**
 
+![screenshot.png](screenshot.png)
